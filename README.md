@@ -1,2 +1,1 @@
-# DevoirRomainGimault
-Devoir d'ORM c# réaliser avec le framwork Entity
+Devoir d'ORM c# réalisé avec le framwork Entity.
